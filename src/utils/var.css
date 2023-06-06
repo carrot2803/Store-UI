@@ -1,0 +1,19 @@
+:root {
+    --white: #fff;
+    --black: rgb(19, 19, 19);
+    --grey: #333;
+    --blue0: #5995fd;
+}
+
+.light{
+    --text-col: var(--black);
+    --primary: var(--black);
+    --secondary: var(--white);
+}
+
+.dark{
+    --text-col: var(--white);
+    --primary: var(--white);
+    --secondary: var(--black);
+}
+
