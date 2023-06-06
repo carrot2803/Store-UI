@@ -15,7 +15,7 @@ export const Navbar = () => {
 				<span className="slider"></span>
 			</label>
 			<div className="links">
-				<Link to="/" className="link">Shop</Link>
+				<Link to="" className="link">Shop</Link>
 				<Link to="/cart" className="link">
 					<ShoppingCart size={24} />
 				</Link>
