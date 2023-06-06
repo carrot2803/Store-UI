@@ -2,6 +2,10 @@
 
 This is a simple ecommerce website built in React. 
 
+## Website Availability
+
+You can access the website at: https://carrot2803.github.io/Store-UI/
+
 ## Features
 - Home Page <br/>
 - Cart Page <br/>
