@@ -1,4 +1,4 @@
-# React Store Website
+# Store UI React
 
 This is a simple ecommerce website built in React. 
 
@@ -15,10 +15,10 @@ This is a simple ecommerce website built in React.
   <code>There are several ways to save this repository on your device. Two of these options include:</code>
 </summary>
 
-- [Downloading repository as ZIP](https://github.com/carrot2803/Store-React/archive/refs/heads/master.zip)
+- [Downloading repository as ZIP](https://github.com/carrot2803/Store-UI/archive/refs/heads/master.zip)
 - Running the following command in a terminal, provided the [GitHub CLI](https://cli.github.com/) has been previously installed:
 ```sh
-git clone https://github.com/carrot2803/Store-React.git
+git clone https://github.com/carrot2803/Store-UI.git
 ```
 
 <code>Install React and dependencies:  </code>
