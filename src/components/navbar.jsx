@@ -15,8 +15,8 @@ export const Navbar = () => {
 				<span className="slider"></span>
 			</label>
 			<div className="links">
-				<Link to="./" className="link">Shop</Link>
-				<Link to="./cart" className="link">
+				<Link to="Store-UI/" className="link">Shop</Link>
+				<Link to="Store-UI/cart" className="link">
 					<ShoppingCart size={24} />
 				</Link>
 			</div>
