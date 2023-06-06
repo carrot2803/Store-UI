@@ -1,4 +1,4 @@
-# React Shop Website
+# React Store Website
 
 This is a simple ecommerce website built in React. 
 
